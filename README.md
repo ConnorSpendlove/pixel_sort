@@ -32,3 +32,5 @@ This app uses your **CPU only** (no GPU). **Parallel** here means splitting work
 
 - If parallel process spawn fails (e.g. in some restricted environments), the app falls back to sequential for the “parallel” run and reports it in the status bar.
 - Use **Medium** or **Large** image size for clearer timing differences between sequential and parallel.
+
+test
